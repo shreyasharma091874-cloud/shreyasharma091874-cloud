@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreya Sharma</h1>
+<h3 align="center">ECE Student | AI & LSTM Enthusiast</h3>
 
-<!--
-**shreyasharma091874-cloud/shreyasharma091874-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  About Me
+-  Electronics & Communication Engineering Student  
+-  Working on LSTM for ECG R-peak Detection  
+- Interested in AI + Signal Processing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Skills
+- Python  
+- PyTorch  
+- MATLAB  
+- Verilog  
+- Git & GitHub  
+
+---
+
+###  Contact
+- Email: shreyasharma091874@gmail.com
