@@ -25,7 +25,6 @@
 
 *  Electronics & Communication Engineering Student
 *  Working on LSTM for ECG R-peak Detection
-*  Preparing for GATE 2026
 *  Interested in AI + Signal Processing
 
 ---
