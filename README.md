@@ -20,12 +20,11 @@
 <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,git,github,verilog" />
 </p>
 
----
 
 ###  Contact
 - Email: shreyasharma091874@gmail.com
 
-- <p align="center">
+ <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
 </p>
 
