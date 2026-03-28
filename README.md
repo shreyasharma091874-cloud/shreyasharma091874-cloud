@@ -26,7 +26,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shreyasharma091874-cloud&show_icons=true&theme=radical" />
 </p>
@@ -34,7 +33,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shreyasharma091874-cloud&theme=radical" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasharma091874-cloud&theme=react-dark"/>
 </p>
