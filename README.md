@@ -23,11 +23,9 @@
 
 ###  Contact
 - Email: shreyasharma091874@gmail.com
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
 </p>
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shreyasharma091874-cloud&show_icons=true&theme=radical" />
