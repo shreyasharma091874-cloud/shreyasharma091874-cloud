@@ -5,15 +5,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=ECE+Engineer;LSTM+Developer;AI+Enthusiast;GATE+2026+Aspirant&center=true&width=500&height=50" />
 </p>
 
----
-
 ### About Me
 
 *  Electronics & Communication Engineering Student
 *  Working on LSTM for ECG R-peak Detection
 *  Interested in AI + Signal Processing
 
----
 
 ###  Skills
 
