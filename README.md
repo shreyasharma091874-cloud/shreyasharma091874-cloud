@@ -40,6 +40,35 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Shreya%20Sharma&fontSize=40&fontColor=ffffff"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shreyasharma091874-cloud&label=Profile%20views&color=ff69b4&style=flat" />
+</p
+
+  ###  Featured Projects
+
+####  LSTM ECG R-Peak Detection
+- Built deep learning model using PyTorch  
+- Detects R-peaks from ECG signals  
+- Improved accuracy using optimization  
+
+####  AI Optimization Project
+- Applied Genetic Algorithm  
+- Enhanced model performance  
+- Focus on signal processing  
+
+#### Verilog Digital Design
+- Implemented ALU  
+- Basic logic gates using HDL
+
+- ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
+
+
 
 ###  Contact
 
