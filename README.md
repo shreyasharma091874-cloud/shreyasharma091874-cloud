@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya Sharma</h1>
 <h3 align="center">ECE Student | AI & LSTM Enthusiast</h3>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=ECE+Engineer;LSTM+Developer;AI+Enthusiast&center=true&width=500&height=50">
+</p>
 ---
 
 ###  About Me
@@ -15,12 +17,19 @@
 - PyTorch  
 - MATLAB  
 - Verilog  
-- Git & GitHub  
+- Git & GitHub
+- <p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,matlab,git,github,verilog" />
+</p>
 
 ---
 
 ###  Contact
 - Email: shreyasharma091874@gmail.com
+
+- <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
+</p>
 
 
 
