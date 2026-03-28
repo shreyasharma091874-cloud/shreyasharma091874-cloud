@@ -3,14 +3,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=ECE+Engineer;LSTM+Developer;AI+Enthusiast&center=true&width=500&height=50">
 </p>
----
 
 ###  About Me
 -  Electronics & Communication Engineering Student  
 -  Working on LSTM for ECG R-peak Detection  
 - Interested in AI + Signal Processing  
 
----
 
 ###  Skills
 - Python  
@@ -18,7 +16,7 @@
 - MATLAB  
 - Verilog  
 - Git & GitHub
-- <p align="center">
+ <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,git,github,verilog" />
 </p>
 
@@ -30,7 +28,6 @@
 - <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
 </p>
-
 
 
 <p align="center">
