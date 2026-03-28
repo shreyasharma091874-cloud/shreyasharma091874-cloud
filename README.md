@@ -20,13 +20,6 @@
 
 ---
 
-###  Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreyasharma091874-cloud&theme=radical" />
-</p>
-
----
 
 ###  GitHub Stats
 
